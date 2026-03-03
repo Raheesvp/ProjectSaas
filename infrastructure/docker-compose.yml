@@ -92,7 +92,8 @@ services:
     image: datalust/seq:latest
     container_name: documentsaas-seq
     environment:
-      ACCEPT_EULA: "Y"
+      - ACCEPT_EULA=Y
+      - SEQ_API_CANONICAL_URI=http://localhost:5341
     ports:
       - "5341:5341"
       - "8081:80"

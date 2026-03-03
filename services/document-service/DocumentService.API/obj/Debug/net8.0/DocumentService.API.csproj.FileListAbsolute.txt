@@ -6,6 +6,10 @@ C:\Projects\ProjectSaas\services\document-service\DocumentService.API\bin\Debug\
 C:\Projects\ProjectSaas\services\document-service\DocumentService.API\bin\Debug\net8.0\DocumentService.API.runtimeconfig.json
 C:\Projects\ProjectSaas\services\document-service\DocumentService.API\bin\Debug\net8.0\DocumentService.API.dll
 C:\Projects\ProjectSaas\services\document-service\DocumentService.API\bin\Debug\net8.0\DocumentService.API.pdb
+C:\Projects\ProjectSaas\services\document-service\DocumentService.API\bin\Debug\net8.0\MassTransit.dll
+C:\Projects\ProjectSaas\services\document-service\DocumentService.API\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Projects\ProjectSaas\services\document-service\DocumentService.API\bin\Debug\net8.0\MediatR.dll
+C:\Projects\ProjectSaas\services\document-service\DocumentService.API\bin\Debug\net8.0\MediatR.Contracts.dll
 C:\Projects\ProjectSaas\services\document-service\DocumentService.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Projects\ProjectSaas\services\document-service\DocumentService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Projects\ProjectSaas\services\document-service\DocumentService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -31,6 +35,7 @@ C:\Projects\ProjectSaas\services\document-service\DocumentService.API\obj\Debug\
 C:\Projects\ProjectSaas\services\document-service\DocumentService.API\obj\Debug\net8.0\DocumentService.API.csproj.CoreCompileInputs.cache
 C:\Projects\ProjectSaas\services\document-service\DocumentService.API\obj\Debug\net8.0\DocumentService.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Projects\ProjectSaas\services\document-service\DocumentService.API\obj\Debug\net8.0\DocumentService.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\ProjectSaas\services\document-service\DocumentService.API\obj\Debug\net8.0\DocumentService.API.sourcelink.json
 C:\Projects\ProjectSaas\services\document-service\DocumentService.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Projects\ProjectSaas\services\document-service\DocumentService.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Projects\ProjectSaas\services\document-service\DocumentService.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -45,8 +50,3 @@ C:\Projects\ProjectSaas\services\document-service\DocumentService.API\obj\Debug\
 C:\Projects\ProjectSaas\services\document-service\DocumentService.API\obj\Debug\net8.0\DocumentService.API.pdb
 C:\Projects\ProjectSaas\services\document-service\DocumentService.API\obj\Debug\net8.0\DocumentService.API.genruntimeconfig.cache
 C:\Projects\ProjectSaas\services\document-service\DocumentService.API\obj\Debug\net8.0\ref\DocumentService.API.dll
-C:\Projects\ProjectSaas\services\document-service\DocumentService.API\bin\Debug\net8.0\MassTransit.dll
-C:\Projects\ProjectSaas\services\document-service\DocumentService.API\bin\Debug\net8.0\MassTransit.Abstractions.dll
-C:\Projects\ProjectSaas\services\document-service\DocumentService.API\bin\Debug\net8.0\MediatR.dll
-C:\Projects\ProjectSaas\services\document-service\DocumentService.API\bin\Debug\net8.0\MediatR.Contracts.dll
-C:\Projects\ProjectSaaS\services\document-service\DocumentService.API\obj\Debug\net8.0\DocumentService.API.sourcelink.json

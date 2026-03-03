@@ -20,7 +20,7 @@ namespace IdentityService.Domain.Entities;
         string passwordHash,
         UserRole role) : base(id)
     {
-        tenantId = tenantId;
+        TenantId = tenantId;
         Email = email;
         FullName = fullName;
         PasswordHash = passwordHash;

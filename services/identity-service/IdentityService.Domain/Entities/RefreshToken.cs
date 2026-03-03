@@ -27,6 +27,8 @@ public sealed class RefreshToken : BaseEntity<Guid>
     public string? RevokedReason { get; private set; }
     public DateTime? RevokedAt { get; private set; }
 
+    public User User { get; private set; } = null!;
+
     public bool IsExpired => DateTime.UtcNow >= ExpiresAt;
     public bool IsActive => !IsRevoked && !IsExpired; // A token is active if it's not revoked and not expired
 

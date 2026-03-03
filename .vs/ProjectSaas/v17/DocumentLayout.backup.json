@@ -19,7 +19,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DocumentService.Domain",
+              "Title": "DocumentService.Domain.csproj",
               "DocumentMoniker": "C:\\Projects\\ProjectSaaS\\services\\document-service\\DocumentService.Domain\\DocumentService.Domain.csproj",
               "RelativeDocumentMoniker": "services\\document-service\\DocumentService.Domain\\DocumentService.Domain.csproj",
               "ToolTip": "C:\\Projects\\ProjectSaaS\\services\\document-service\\DocumentService.Domain\\DocumentService.Domain.csproj",

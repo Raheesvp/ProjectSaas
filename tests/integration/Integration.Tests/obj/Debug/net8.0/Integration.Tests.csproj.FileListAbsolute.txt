@@ -91,10 +91,10 @@ C:\Projects\ProjectSaas\tests\integration\Integration.Tests\obj\Debug\net8.0\Int
 C:\Projects\ProjectSaas\tests\integration\Integration.Tests\obj\Debug\net8.0\Integration.Tests.AssemblyInfoInputs.cache
 C:\Projects\ProjectSaas\tests\integration\Integration.Tests\obj\Debug\net8.0\Integration.Tests.AssemblyInfo.cs
 C:\Projects\ProjectSaas\tests\integration\Integration.Tests\obj\Debug\net8.0\Integration.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\ProjectSaas\tests\integration\Integration.Tests\obj\Debug\net8.0\Integration.Tests.sourcelink.json
 C:\Projects\ProjectSaas\tests\integration\Integration.Tests\obj\Debug\net8.0\Integrat.4CCCBE11.Up2Date
 C:\Projects\ProjectSaas\tests\integration\Integration.Tests\obj\Debug\net8.0\Integration.Tests.dll
 C:\Projects\ProjectSaas\tests\integration\Integration.Tests\obj\Debug\net8.0\refint\Integration.Tests.dll
 C:\Projects\ProjectSaas\tests\integration\Integration.Tests\obj\Debug\net8.0\Integration.Tests.pdb
 C:\Projects\ProjectSaas\tests\integration\Integration.Tests\obj\Debug\net8.0\Integration.Tests.genruntimeconfig.cache
 C:\Projects\ProjectSaas\tests\integration\Integration.Tests\obj\Debug\net8.0\ref\Integration.Tests.dll
-C:\Projects\ProjectSaaS\tests\integration\Integration.Tests\obj\Debug\net8.0\Integration.Tests.sourcelink.json

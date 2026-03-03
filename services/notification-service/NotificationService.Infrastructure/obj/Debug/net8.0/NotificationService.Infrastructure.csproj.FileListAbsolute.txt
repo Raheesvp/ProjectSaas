@@ -5,8 +5,8 @@ C:\Projects\ProjectSaas\services\notification-service\NotificationService.Infras
 C:\Projects\ProjectSaas\services\notification-service\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.AssemblyInfoInputs.cache
 C:\Projects\ProjectSaas\services\notification-service\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.AssemblyInfo.cs
 C:\Projects\ProjectSaas\services\notification-service\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\ProjectSaas\services\notification-service\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.sourcelink.json
 C:\Projects\ProjectSaas\services\notification-service\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.dll
 C:\Projects\ProjectSaas\services\notification-service\NotificationService.Infrastructure\obj\Debug\net8.0\refint\NotificationService.Infrastructure.dll
 C:\Projects\ProjectSaas\services\notification-service\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.pdb
 C:\Projects\ProjectSaas\services\notification-service\NotificationService.Infrastructure\obj\Debug\net8.0\ref\NotificationService.Infrastructure.dll
-C:\Projects\ProjectSaaS\services\notification-service\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.sourcelink.json

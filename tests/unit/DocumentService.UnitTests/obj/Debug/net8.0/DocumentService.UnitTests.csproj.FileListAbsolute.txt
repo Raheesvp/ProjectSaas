@@ -91,10 +91,10 @@ C:\Projects\ProjectSaas\tests\unit\DocumentService.UnitTests\obj\Debug\net8.0\Do
 C:\Projects\ProjectSaas\tests\unit\DocumentService.UnitTests\obj\Debug\net8.0\DocumentService.UnitTests.AssemblyInfoInputs.cache
 C:\Projects\ProjectSaas\tests\unit\DocumentService.UnitTests\obj\Debug\net8.0\DocumentService.UnitTests.AssemblyInfo.cs
 C:\Projects\ProjectSaas\tests\unit\DocumentService.UnitTests\obj\Debug\net8.0\DocumentService.UnitTests.csproj.CoreCompileInputs.cache
+C:\Projects\ProjectSaas\tests\unit\DocumentService.UnitTests\obj\Debug\net8.0\DocumentService.UnitTests.sourcelink.json
 C:\Projects\ProjectSaas\tests\unit\DocumentService.UnitTests\obj\Debug\net8.0\Document.87FC4D48.Up2Date
 C:\Projects\ProjectSaas\tests\unit\DocumentService.UnitTests\obj\Debug\net8.0\DocumentService.UnitTests.dll
 C:\Projects\ProjectSaas\tests\unit\DocumentService.UnitTests\obj\Debug\net8.0\refint\DocumentService.UnitTests.dll
 C:\Projects\ProjectSaas\tests\unit\DocumentService.UnitTests\obj\Debug\net8.0\DocumentService.UnitTests.pdb
 C:\Projects\ProjectSaas\tests\unit\DocumentService.UnitTests\obj\Debug\net8.0\DocumentService.UnitTests.genruntimeconfig.cache
 C:\Projects\ProjectSaas\tests\unit\DocumentService.UnitTests\obj\Debug\net8.0\ref\DocumentService.UnitTests.dll
-C:\Projects\ProjectSaaS\tests\unit\DocumentService.UnitTests\obj\Debug\net8.0\DocumentService.UnitTests.sourcelink.json

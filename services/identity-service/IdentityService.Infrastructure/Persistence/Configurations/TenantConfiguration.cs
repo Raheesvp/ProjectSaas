@@ -1,5 +1,5 @@
-using System.Configuration.Assemblies;
-using IdnetityService.Domain.Entities;
+
+using IdentityService.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
@@ -27,7 +27,7 @@ public class TenantConfiguration : IEntityTypeConfiguration<Tenant>
             .IsRequired().HasMaxLength(255);
 
         builder.Property(t => t.IsActive)
-            .IsRequired().hasDefaultValue(true);
+            .IsRequired().HasDefaultValue(true);
 
         builder.Property(t => t.CreatedAt)
             .IsRequired();

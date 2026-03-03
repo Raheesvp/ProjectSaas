@@ -91,10 +91,10 @@ C:\Projects\ProjectSaas\tests\unit\IdentityService.UnitTests\obj\Debug\net8.0\Id
 C:\Projects\ProjectSaas\tests\unit\IdentityService.UnitTests\obj\Debug\net8.0\IdentityService.UnitTests.AssemblyInfoInputs.cache
 C:\Projects\ProjectSaas\tests\unit\IdentityService.UnitTests\obj\Debug\net8.0\IdentityService.UnitTests.AssemblyInfo.cs
 C:\Projects\ProjectSaas\tests\unit\IdentityService.UnitTests\obj\Debug\net8.0\IdentityService.UnitTests.csproj.CoreCompileInputs.cache
+C:\Projects\ProjectSaas\tests\unit\IdentityService.UnitTests\obj\Debug\net8.0\IdentityService.UnitTests.sourcelink.json
 C:\Projects\ProjectSaas\tests\unit\IdentityService.UnitTests\obj\Debug\net8.0\Identity.F88012CD.Up2Date
 C:\Projects\ProjectSaas\tests\unit\IdentityService.UnitTests\obj\Debug\net8.0\IdentityService.UnitTests.dll
 C:\Projects\ProjectSaas\tests\unit\IdentityService.UnitTests\obj\Debug\net8.0\refint\IdentityService.UnitTests.dll
 C:\Projects\ProjectSaas\tests\unit\IdentityService.UnitTests\obj\Debug\net8.0\IdentityService.UnitTests.pdb
 C:\Projects\ProjectSaas\tests\unit\IdentityService.UnitTests\obj\Debug\net8.0\IdentityService.UnitTests.genruntimeconfig.cache
 C:\Projects\ProjectSaas\tests\unit\IdentityService.UnitTests\obj\Debug\net8.0\ref\IdentityService.UnitTests.dll
-C:\Projects\ProjectSaaS\tests\unit\IdentityService.UnitTests\obj\Debug\net8.0\IdentityService.UnitTests.sourcelink.json

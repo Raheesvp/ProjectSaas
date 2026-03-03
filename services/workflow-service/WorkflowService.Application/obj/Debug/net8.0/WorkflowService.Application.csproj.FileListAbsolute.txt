@@ -5,8 +5,8 @@ C:\Projects\ProjectSaas\services\workflow-service\WorkflowService.Application\ob
 C:\Projects\ProjectSaas\services\workflow-service\WorkflowService.Application\obj\Debug\net8.0\WorkflowService.Application.AssemblyInfoInputs.cache
 C:\Projects\ProjectSaas\services\workflow-service\WorkflowService.Application\obj\Debug\net8.0\WorkflowService.Application.AssemblyInfo.cs
 C:\Projects\ProjectSaas\services\workflow-service\WorkflowService.Application\obj\Debug\net8.0\WorkflowService.Application.csproj.CoreCompileInputs.cache
+C:\Projects\ProjectSaas\services\workflow-service\WorkflowService.Application\obj\Debug\net8.0\WorkflowService.Application.sourcelink.json
 C:\Projects\ProjectSaas\services\workflow-service\WorkflowService.Application\obj\Debug\net8.0\WorkflowService.Application.dll
 C:\Projects\ProjectSaas\services\workflow-service\WorkflowService.Application\obj\Debug\net8.0\refint\WorkflowService.Application.dll
 C:\Projects\ProjectSaas\services\workflow-service\WorkflowService.Application\obj\Debug\net8.0\WorkflowService.Application.pdb
 C:\Projects\ProjectSaas\services\workflow-service\WorkflowService.Application\obj\Debug\net8.0\ref\WorkflowService.Application.dll
-C:\Projects\ProjectSaaS\services\workflow-service\WorkflowService.Application\obj\Debug\net8.0\WorkflowService.Application.sourcelink.json

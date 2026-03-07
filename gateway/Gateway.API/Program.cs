@@ -67,12 +67,12 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowFrontend", policy =>
         policy
             .WithOrigins(
-                "http://localhost:3000",  // React dev server
+                "http://localhost:3000",  
                 "http://localhost:5173"
                 )  // Vite dev server
             .AllowAnyHeader()
             .AllowAnyMethod()
-            .AllowCredentials());         // Required for SignalR
+            .AllowCredentials());        
 });
 
 var app = builder.Build();

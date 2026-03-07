@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+bin/
+obj/
+
+# Rider / VSCode
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test results
+TestResults/
+coverage/

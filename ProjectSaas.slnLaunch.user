@@ -9,6 +9,10 @@
       {
         "Path": "services\\identity-service\\IdentityService.API\\IdentityService.API.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "services\\document-service\\DocumentService.API\\DocumentService.API.csproj",
+        "Action": "Start"
       }
     ]
   }
